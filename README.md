@@ -1,5 +1,6 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=sonayaa&fontSize=70&fontAlignY=35)
-<!-- 8eb7f9-->
+-->
 
 ## 👋 Hi there
 - 💻 I'm web developer.
