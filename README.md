@@ -4,8 +4,7 @@
 
 ## 👋 Hi there
 - 💻 I'm web developer.
-- 🔭 I’m currently working on clone coding with React.
-- 🌱 I’m currently learning 'React' and 'Git'.
+- 🌱 My favorite language is javascript.
 <br/>
 
 ## 💪 Skills
